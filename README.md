@@ -1,4 +1,4 @@
-# 📊 Projeto Real de Dashboards com Power BI para Controle Operacional e Produtividade Documental
+# 📊 Dashboards com Power BI para Controle Operacional e Produtividade Documental
 
 Este projeto consiste no desenvolvimento de dashboards de produtividade em Power BI, aplicados em uma empresa voltada à área de digitalização e gestão documental. Os dashboards encontram-se em constante evolução e já estão sendo utilizados no ambiente corporativo para acompanhamento operacional, análise de desempenho e apoio à tomada de decisão.
 
